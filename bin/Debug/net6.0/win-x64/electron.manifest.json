@@ -1,7 +1,7 @@
 {
   "executable": "elec",
   "splashscreen": {
-    "imageFile": ""
+    "imageFile": "/wwwroot/img/microcomp-logo.png"
   },
   "name": "elec",
   "author": "",
@@ -12,6 +12,11 @@
     "productName": "elec",
     "copyright": "Copyright © 2020",
     "buildVersion": "1.0.0",
+    "publish": {
+      "provider": "generic",
+      "url": "http://localhost:82",
+      "channel": "latest"
+    },
     "compression": "maximum",
     "directories": {
       "output": "../../../bin/Desktop"

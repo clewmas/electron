@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wRY8GhXorrhbhb7jJ8BIsAdyGn6thspQH7ffTNDUGsg=",
+  "Hash": "aiaZVz2rAUWJeLPxLwpXSJ9xCunSrHKt/6txMQmQgJU=",
   "Source": "elec",
   "BasePath": "_content/elec",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\scopedcss\\bundle\\elec.styles.css",
+      "Identity": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\win-x64\\scopedcss\\bundle\\elec.styles.css",
       "SourceId": "elec",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\win-x64\\scopedcss\\bundle\\",
       "BasePath": "_content/elec",
       "RelativePath": "elec.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\scopedcss\\bundle\\elec.styles.css"
+      "OriginalItemSpec": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\win-x64\\scopedcss\\bundle\\elec.styles.css"
     },
     {
-      "Identity": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\elec.bundle.scp.css",
+      "Identity": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\win-x64\\scopedcss\\projectbundle\\elec.bundle.scp.css",
       "SourceId": "elec",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\win-x64\\scopedcss\\projectbundle\\",
       "BasePath": "_content/elec",
       "RelativePath": "elec.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\elec.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Projekty\\_delete\\elec\\obj\\Debug\\net6.0\\win-x64\\scopedcss\\projectbundle\\elec.bundle.scp.css"
     },
     {
       "Identity": "C:\\Projekty\\_delete\\elec\\wwwroot\\css\\site.css",

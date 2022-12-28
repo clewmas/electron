@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projekty\\_delete\\elec\\elec.csproj": {}
+    "C:\\Projekty\\_delete\\elec\\elec.csproj": {}
   },
   "projects": {
-    "c:\\Projekty\\_delete\\elec\\elec.csproj": {
+    "C:\\Projekty\\_delete\\elec\\elec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projekty\\_delete\\elec\\elec.csproj",
+        "projectUniqueName": "C:\\Projekty\\_delete\\elec\\elec.csproj",
         "projectName": "elec",
-        "projectPath": "c:\\Projekty\\_delete\\elec\\elec.csproj",
+        "projectPath": "C:\\Projekty\\_delete\\elec\\elec.csproj",
         "packagesPath": "C:\\Users\\durica\\.nuget\\packages\\",
-        "outputPath": "c:\\Projekty\\_delete\\elec\\obj\\",
+        "outputPath": "C:\\Projekty\\_delete\\elec\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,6 +62,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -71,6 +89,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
