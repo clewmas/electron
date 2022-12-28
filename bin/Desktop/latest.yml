@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: elec-Setup-1.0.0.exe
+    sha512: hJ4UwbMO4iuZzsQApPI3TQug/wf+Xbs6Pw8aAyQ2+HMgAgWHMG23X73JYnBb9/yMYglhC8EYePc9laYIpUamGw==
+    size: 91184341
+path: elec-Setup-1.0.0.exe
+sha512: hJ4UwbMO4iuZzsQApPI3TQug/wf+Xbs6Pw8aAyQ2+HMgAgWHMG23X73JYnBb9/yMYglhC8EYePc9laYIpUamGw==
+releaseDate: '2022-12-23T11:53:21.664Z'

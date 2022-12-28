@@ -1,0 +1,80 @@
+<?xml version="1.0"?><?mso-infoPathSolution name="urn:schemas-microsoft-com:office:infopath:Employee-Request:-myXSD-2016-07-21T09-08-59" solutionVersion="1.0.0.560" productVersion="16.0.0.0" PIVersion="1.0.0.0" href="https://intranet.fsk.local/hrd/Employee%20Request/Forms/template.xsn"?><?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.4"?><my:myFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:tns="http://tempuri.org/" xmlns:q1="http://schemas.datacontract.org/2004/07/Mc.ElectronicEmploymentRequest.DataAccess.Model" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:ns1="http://schemas.datacontract.org/2004/07/Foxconn.Ziadanky.DataAccess.Model" xmlns:ns2="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-07-21T09:08:59" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="sk-SK">
+	<my:grPosition>
+		<my:txPositionTitle></my:txPositionTitle>
+		<my:ddPositionGroup>Engineering</my:ddPositionGroup>
+		<my:ddJobPosition>Electrical Design Engineer Embedded systems</my:ddJobPosition>
+		<my:txContractPosition>Engineer 5</my:txContractPosition>
+	</my:grPosition>
+	<my:grProperties1>
+		<my:txPIC>Mario Skalicky</my:txPIC>
+		<my:txNoPositions>1</my:txNoPositions>
+		<my:ddCostCenter>NRD107</my:ddCostCenter>
+		<my:ddDepartment>RDD</my:ddDepartment>
+		<my:ddLeader>No</my:ddLeader>
+		<my:ddWarehouseOperatorFLD>No</my:ddWarehouseOperatorFLD>
+		<my:ddElectroDecree>22</my:ddElectroDecree>
+	</my:grProperties1>
+	<my:grProperties2>
+		<my:ddContractType>Contract Permanent</my:ddContractType>
+		<my:ddReasonType>Replacement</my:ddReasonType>
+		<my:ddBudgetType>In Budget</my:ddBudgetType>
+		<my:txShift>FLEX</my:txShift>
+		<my:dtRequestedStartDate>2023-03-01</my:dtRequestedStartDate>
+		<my:dtRequestedEndDate>2023-12-31</my:dtRequestedEndDate>
+	</my:grProperties2>
+	<my:grDescription>
+		<my:txPositionDescription>podla JD</my:txPositionDescription>
+	</my:grDescription>
+	<my:grReason>
+		<my:txRequestReason>replacement for Jozef Sulek, Mario Skalicky, Jozef Bodis</my:txRequestReason>
+	</my:grReason>
+	<my:grHRDInputAccepted>
+		<my:dtAcceptedStartDate>2023-05-08</my:dtAcceptedStartDate>
+		<my:dtAcceptedEndDate>2023-05-08</my:dtAcceptedEndDate>
+	</my:grHRDInputAccepted>
+	<my:grHRDInput>
+		<my:HRDInput>
+			<my:txNoPositionHired xsi:nil="true"></my:txNoPositionHired>
+			<my:dtStartDateHired xsi:nil="true"></my:dtStartDateHired>
+			<my:txComment></my:txComment>
+		</my:HRDInput>
+	</my:grHRDInput>
+	<my:ValidationFields>
+		<my:txPositionTitleBefore></my:txPositionTitleBefore>
+		<my:txPositionGroupBefore>Engineering</my:txPositionGroupBefore>
+		<my:txPICBefore>Mario Skalicky</my:txPICBefore>
+		<my:txCostCenterBefore>NRD107</my:txCostCenterBefore>
+		<my:txNoPositionsBefore>1</my:txNoPositionsBefore>
+		<my:txContractTypeBefore>Contract Permanent</my:txContractTypeBefore>
+		<my:txReasonTypeBefore>Replacement</my:txReasonTypeBefore>
+		<my:txBudgetTypeBefore>In Budget</my:txBudgetTypeBefore>
+		<my:txShiftBefore>FLEX</my:txShiftBefore>
+		<my:txStartDateBefore>2023-03-01</my:txStartDateBefore>
+		<my:txEndDateBefore>2023-12-31</my:txEndDateBefore>
+		<my:txPositionDescBefore>podla JD</my:txPositionDescBefore>
+		<my:txRequestReasonBefore>replacement for Jozef Sulek, Mario Skalicky, Jozef Bodis</my:txRequestReasonBefore>
+		<my:txAcceptedStartDateBefore>2023-05-08</my:txAcceptedStartDateBefore>
+		<my:FormStatusBefore></my:FormStatusBefore>
+		<my:txJobPositionBefore>Electrical Design Engineer Embedded systems</my:txJobPositionBefore>
+		<my:txLeaderBefore>No</my:txLeaderBefore>
+		<my:txWarehouseOperatorFLDBefore>No</my:txWarehouseOperatorFLDBefore>
+		<my:txElectroDecreeBefore>22</my:txElectroDecreeBefore>
+	</my:ValidationFields>
+	<my:strFileName>EmployeeRequest-fskmitanl-2022-12-09T09:09:03</my:strFileName>
+	<my:isHRD>false</my:isHRD>
+	<my:numAcceptedPositions>0</my:numAcceptedPositions>
+	<my:isAllowedChange>true</my:isAllowedChange>
+	<my:isMCApproval xsi:nil="true"></my:isMCApproval>
+	<my:isContractTypeWithDate>false</my:isContractTypeWithDate>
+	<my:FormStatus>Approved</my:FormStatus>
+	<my:ApprovalLastsDays>5</my:ApprovalLastsDays>
+	<my:AcceptedStartDateModified>0</my:AcceptedStartDateModified>
+	<my:isFormAdmin>false</my:isFormAdmin>
+	<my:DateCreated>2022-12-09T09:09:06</my:DateCreated>
+	<my:DatePublishedV2>2018-03-29T12:00:00</my:DatePublishedV2>
+	<my:DatePublishedV3>2018-05-15T15:00:00</my:DatePublishedV3>
+	<my:HiddenFields>
+		<my:txFamilyAreaID>47</my:txFamilyAreaID>
+		<my:txContractPositionTitle>Engineer 5</my:txContractPositionTitle>
+	</my:HiddenFields>
+</my:myFields>

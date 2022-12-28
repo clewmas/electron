@@ -1,0 +1,15 @@
+2022-12-28 10:01:31,257 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2022-12-28 10:01:31,258 [1] INFO  App  
+ Starting Application elec! 
+ 
+2022-12-28 10:01:31,266 [1] INFO  App  
+ WebHost use electron! 
+ 
+2022-12-28 10:01:31,446 [1] INFO  App  
+ Application elec started! 
+ 
+2022-12-28 10:01:49,364 [9] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
