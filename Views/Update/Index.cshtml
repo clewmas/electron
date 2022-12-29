@@ -17,10 +17,10 @@
 
         <div class="demo">
             <div class="demo-wrapper">
-                <button id="tray-demo-toggle" class="js-container-target demo-toggle-button">
+                @* <button id="tray-demo-toggle" class="js-container-target demo-toggle-button">
                     Auto Update this App
                     <div class="demo-meta u-avoid-clicks">Supports: Win, macOS, Linux | Process: Main</div>
-                </button>
+                </button> *@
                 <div class="demo-box">
                     <div class="demo-controls">
                         <button class="demo-button" id="btn-update">View Demo</button>
@@ -34,8 +34,12 @@
                     <pre><code class="csharp">Electron.IpcMain.On("auto-update", async (args) =>
 {
     var currentVersion = await Electron.App.GetVersionAsync();
-    var updateCheckResult = await Electron.AutoUpdater.CheckForUpdatesAndNotifyAsync();
-    var availableVersion = updateCheckResult.UpdateInfo.Version;
+    #if DEBUG
+        var updateCheckResult = await Electron.AutoUpdater.CheckForUpdatesAsync();
+    #else
+        var updateCheckResult = await Electron.AutoUpdater.CheckForUpdatesAndNotifyAsync();
+    #endif
+        var availableVersion = updateCheckResult.UpdateInfo.Version;
     string information = $"Current version: {currentVersion} - available version: {availableVersion}";
 
     var mainWindow = Electron.WindowManager.BrowserWindows.First();

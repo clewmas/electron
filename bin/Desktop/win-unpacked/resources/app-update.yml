@@ -1,5 +1,5 @@
 owner: clewmas
-repo: elec
+repo: electron
 provider: github
 channel: latest
 updaterCacheDirName: elec-updater

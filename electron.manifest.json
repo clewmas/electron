@@ -11,14 +11,14 @@
     "appId": "com.elec.app",
     "productName": "elec",
     "copyright": "Copyright © 2020",
-    "buildVersion": "1.0.0",
+    "buildVersion": "1.0.1",
     "win": {
       "icon": "Assets/electron.ico",
       "publish": [
         {
           "provider": "github",
           "owner": "clewmas",
-          "repo": "elec",
+          "repo": "electron",
           "channel": "latest"
         }
       ]
