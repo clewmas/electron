@@ -1,3 +1,5 @@
-owner: cleemas
-repo: dev-auto-update-testing
+owner: clewmas
+repo: elec
 provider: github
+channel": latest
+token: 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
