@@ -1,3 +1,4 @@
+C:\Projekty\_delete\elec\obj\desktop\win\bin\log4net.config
 C:\Projekty\_delete\elec\obj\desktop\win\bin\appsettings.Development.json
 C:\Projekty\_delete\elec\obj\desktop\win\bin\appsettings.json
 C:\Projekty\_delete\elec\obj\desktop\win\bin\electron.manifest.json

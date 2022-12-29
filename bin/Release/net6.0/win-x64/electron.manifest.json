@@ -1,7 +1,7 @@
 {
   "executable": "elec",
   "splashscreen": {
-    "imageFile": ""
+    "imageFile": "/wwwroot/img/microcomp-logo.png"
   },
   "name": "elec",
   "author": "",
@@ -12,6 +12,17 @@
     "productName": "elec",
     "copyright": "Copyright © 2020",
     "buildVersion": "1.0.0",
+    "win": {
+      "icon": "Assets/electron.ico",
+      "publish": [
+        {
+          "provider": "github",
+          "owner": "clewmas",
+          "repo": "elec",
+          "channel": "latest"
+        }
+      ]
+    },
     "compression": "maximum",
     "directories": {
       "output": "../../../bin/Desktop"

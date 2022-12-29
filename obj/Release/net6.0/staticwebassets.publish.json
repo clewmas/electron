@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qdPB8liopupvRYRHqU/CewOYHiWGUwzudsYzEmQ8PVQ=",
+  "Hash": "ko2Rp3RD0z7bgdCzNj4M7Of1YhZreFkMfJZd1/7c1hE=",
   "Source": "elec",
   "BasePath": "_content/elec",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Projekty\\_delete\\elec\\wwwroot\\img\\microcomp-logo.png",
+      "SourceId": "elec",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projekty\\_delete\\elec\\wwwroot\\",
+      "BasePath": "_content/elec",
+      "RelativePath": "img/microcomp-logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\microcomp-logo.png"
     },
     {
       "Identity": "C:\\Projekty\\_delete\\elec\\wwwroot\\js\\site.js",

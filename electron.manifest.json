@@ -12,10 +12,16 @@
     "productName": "elec",
     "copyright": "Copyright © 2020",
     "buildVersion": "1.0.0",
-    "publish": {
-      "provider": "generic",
-      "url": "http://localhost:82",
-      "channel": "latest"
+    "win": {
+      "icon": "Assets/electron.ico",
+      "publish": [
+        {
+          "provider": "github",
+          "owner": "clewmas",
+          "repo": "elec",
+          "channel": "latest"
+        }
+      ]
     },
     "compression": "maximum",
     "directories": {

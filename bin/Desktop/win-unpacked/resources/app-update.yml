@@ -1,4 +1,5 @@
-owner: ElectronNET
-repo: Electron.NET
+owner: clewmas
+repo: elec
 provider: github
+channel: latest
 updaterCacheDirName: elec-updater

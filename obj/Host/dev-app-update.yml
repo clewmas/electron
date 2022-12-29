@@ -1,3 +1,4 @@
-owner: cleemas
-repo: dev-auto-update-testing
+owner: clewmas
+repo: electron
 provider: github
+channel": latest

@@ -386,3 +386,8 @@ C:\Projekty\_delete\elec\obj\Release\net6.0\win-x64\refint\elec.dll
 C:\Projekty\_delete\elec\obj\Release\net6.0\win-x64\elec.pdb
 C:\Projekty\_delete\elec\obj\Release\net6.0\win-x64\elec.genruntimeconfig.cache
 C:\Projekty\_delete\elec\obj\Release\net6.0\win-x64\ref\elec.dll
+C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\log4net.config
+C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\log4net.dll
+C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
