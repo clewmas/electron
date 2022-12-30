@@ -78,7 +78,8 @@ nsis:
     !macroend
 
     !addplugindir /x86-unicode "C:\Users\durica\AppData\Local\electron-builder\Cache\nsis\nsis-resources-3.4.1\plugins\x86-unicode"
-    !include "C:\Users\durica\AppData\Local\Temp\t-HPePoo\0-messages.nsh"
+    !include "C:\Users\durica\AppData\Local\Temp\t-y6hZQG\0-messages.nsh"
+    !include "C:\Users\durica\AppData\Local\Temp\t-y6hZQG\1-messages.nsh"
 
     Var newStartMenuLink
     Var oldStartMenuLink

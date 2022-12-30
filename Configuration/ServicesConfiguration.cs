@@ -1,6 +1,4 @@
-﻿
-
-using elec.Logging;
+﻿using elec.Logging;
 using elec.Services;
 
 namespace elec.Configuration;

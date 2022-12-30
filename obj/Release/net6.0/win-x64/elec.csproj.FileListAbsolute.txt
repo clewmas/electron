@@ -391,3 +391,4 @@ C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\log4net.dll
 C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
 C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
 C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+C:\Projekty\_delete\elec\bin\Release\net6.0\win-x64\package-lock.json

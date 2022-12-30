@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
-using elec.Models;
+﻿using Microsoft.AspNetCore.Mvc;
 using elec.Services;
 
 namespace elec.Controllers;

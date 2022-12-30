@@ -2,6 +2,7 @@ C:\Projekty\_delete\elec\obj\desktop\win\bin\log4net.config
 C:\Projekty\_delete\elec\obj\desktop\win\bin\appsettings.Development.json
 C:\Projekty\_delete\elec\obj\desktop\win\bin\appsettings.json
 C:\Projekty\_delete\elec\obj\desktop\win\bin\electron.manifest.json
+C:\Projekty\_delete\elec\obj\desktop\win\bin\package-lock.json
 C:\Projekty\_delete\elec\obj\desktop\win\bin\elec.pdb
 C:\Projekty\_delete\elec\obj\desktop\win\bin\aspnetcorev2_inprocess.dll
 C:\Projekty\_delete\elec\obj\desktop\win\bin\elec.exe
