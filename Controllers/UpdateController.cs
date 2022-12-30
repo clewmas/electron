@@ -1,8 +1,5 @@
-﻿using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
-using elec.Models;
+﻿using Microsoft.AspNetCore.Mvc;
 using elec.Services;
-using System.Linq;
 using ElectronNET.API;
 
 namespace elec.Controllers
@@ -45,6 +42,9 @@ namespace elec.Controllers
 
                         var currentVersion = await Electron.App.GetVersionAsync();
                         _logger.Info($"Electron app current version: {currentVersion}");
+
+                        Electron.AutoUpdater.AutoDownload = false;
+                        _logger.Info($"Electron app update - false");
 
                         #if DEBUG
                         var updateCheckResult = await Electron.AutoUpdater.CheckForUpdatesAsync();
