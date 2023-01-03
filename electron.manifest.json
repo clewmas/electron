@@ -16,10 +16,8 @@
       "icon": "Assets/electron.ico",
       "publish": [
         {
-          "provider": "github",
-          "owner": "clewmas",
-          "repo": "electron",
-          "channel": "latest"
+          "provider": "generic",
+          "url": "http://localhost:8039"
         }
       ]
     },

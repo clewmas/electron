@@ -23,7 +23,8 @@
                 </button> *@
                 <div class="demo-box">
                     <div class="demo-controls">
-                        <button class="demo-button" id="btn-update">View Demo</button>
+                        <button class="demo-button" id="btn-update">Allow Update</button>
+                        <button class="demo-button" id="btnUpdateCheck">Check Update</button>
                         <span class="demo-response" id="demo-reply"></span>
                     </div>
                     <p>The demo button call the <code>Electron.AutoUpdater.CheckForUpdatesAndNotifyAsync()</code> in the
@@ -54,6 +55,9 @@
         <script>
             (function () {
                 const { ipcRenderer } = require("electron");
+                document.getElementById("btnUpdateCheck").addEventListener("click", () => {
+                    ipcRenderer.send("auto-update-check");
+                });
                 document.getElementById("btn-update").addEventListener("click", () => {
                     ipcRenderer.send("auto-update");
                 });

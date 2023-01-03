@@ -1,4 +1,2 @@
-owner: clewmas
-repo: electron
-provider: github
-channel": latest
+provider: generic
+url: http://localhost:8039

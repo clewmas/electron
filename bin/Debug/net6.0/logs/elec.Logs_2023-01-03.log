@@ -1,0 +1,789 @@
+2023-01-03 07:28:19,486 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 07:28:19,497 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 07:28:19,506 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 07:28:19,741 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 07:28:20,181 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 07:28:21,428 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 07:28:34,892 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 07:28:36,395 [4] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 07:28:36,397 [4] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 07:42:57,693 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 07:42:57,704 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 07:42:57,714 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 07:42:57,886 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 07:42:58,149 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 07:42:59,264 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 07:43:10,659 [18] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 07:43:11,855 [4] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 07:43:11,857 [4] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 07:43:12,407 [4] INFO  App  
+ Available version: 1.0.1 
+ 
+2023-01-03 07:43:12,408 [4] INFO  App  
+ Current version: 13.6.9 - available version: 1.0.1 
+ 
+2023-01-03 07:47:43,221 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 07:47:43,235 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 07:47:43,244 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 07:47:43,513 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 07:47:43,953 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 07:47:45,311 [13] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 12:42:50,472 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:42:50,488 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:42:50,507 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:42:50,757 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:42:51,076 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:42:52,167 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 12:43:03,059 [16] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:43:04,558 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:43:04,560 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:45:13,119 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:45:13,135 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:45:13,149 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:45:20,856 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:45:20,875 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:45:20,905 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:45:21,301 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:45:22,071 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:45:22,643 [13] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 12:46:15,290 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:46:15,301 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:46:15,312 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:46:15,505 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:46:15,819 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:46:17,000 [13] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 12:46:29,110 [20] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:46:30,479 [6] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:46:30,480 [6] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:47:55,645 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:47:55,657 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:47:55,669 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:47:55,874 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:47:56,203 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:48:02,540 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 12:48:13,955 [19] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:48:50,660 [24] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:48:50,662 [24] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:48:50,666 [24] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:48:50,668 [24] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:48:50,672 [24] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:48:50,674 [24] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:49:26,675 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:49:26,690 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:49:26,701 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:49:26,909 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:49:27,232 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:49:27,518 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:49:57,786 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:49:57,797 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:49:57,805 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:49:57,998 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:49:58,341 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:49:58,624 [10] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:52:44,412 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:52:44,422 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:52:44,434 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:52:44,668 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:52:44,956 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:52:45,289 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:53:00,374 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,375 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:00,379 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,381 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:00,384 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,387 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:00,390 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,392 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:00,396 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,398 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:00,401 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,404 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:00,407 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,410 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:00,413 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,416 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:00,419 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:53:00,424 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:53:42,463 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:53:42,473 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:53:42,484 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:53:42,675 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:53:42,938 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:53:43,911 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 12:54:12,905 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:54:12,917 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:54:12,927 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:54:13,242 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:54:13,584 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:54:14,745 [18] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 12:54:25,717 [9] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:54:27,423 [4] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:54:27,425 [4] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:56:17,033 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:56:17,044 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:56:17,056 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:56:17,245 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:56:17,539 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:56:18,531 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 12:56:27,426 [9] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:56:30,388 [4] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:56:30,390 [4] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:56:30,954 [4] INFO  App  
+ Available version: 1.0.1 
+ 
+2023-01-03 12:56:30,955 [4] INFO  App  
+ Current version: 13.6.9 - available version: 1.0.1 
+ 
+2023-01-03 12:57:39,846 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:57:39,860 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:57:39,875 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:57:40,210 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:57:40,548 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:57:41,040 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:58:06,599 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 12:58:06,613 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 12:58:06,626 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 12:58:06,836 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 12:58:07,409 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 12:58:07,983 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 12:58:20,559 [6] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 12:58:20,561 [6] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 12:58:20,672 [6] INFO  App  
+ Available version: 1.0.1 
+ 
+2023-01-03 12:58:20,673 [6] INFO  App  
+ Current version: 13.6.9 - available version: 1.0.1 
+ 
+2023-01-03 12:58:27,733 [6] INFO  App  
+ Result response is 1 
+ 
+2023-01-03 12:58:29,680 [24] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:00:37,713 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:00:37,728 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:00:37,741 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:00:37,943 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:00:38,287 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:00:38,575 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:02:17,830 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:02:17,845 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:02:17,859 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:02:18,116 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:02:18,475 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:02:18,813 [13] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:02:36,705 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:02:36,716 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:02:36,726 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:02:36,916 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:02:37,338 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:02:37,700 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:02:51,426 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:02:51,440 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:02:51,452 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:02:51,665 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:02:52,053 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:02:52,315 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:03:28,467 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:03:28,478 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:03:28,491 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:03:28,707 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:03:29,132 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:03:29,466 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:03:49,946 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:03:49,959 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:03:49,972 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:03:50,162 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:03:50,475 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:03:50,832 [10] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:03:57,190 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:03:57,200 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:03:57,212 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:03:57,429 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:03:57,743 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:03:58,009 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:04:16,393 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:04:16,405 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:04:16,417 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:04:16,598 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:04:16,897 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:04:17,184 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:04:27,323 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:04:27,345 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:04:27,362 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:04:27,572 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:04:27,953 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:04:28,221 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:04:41,512 [16] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 13:04:48,094 [6] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:04:48,095 [6] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:04:48,151 [6] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:04:48,869 [6] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:04:48,872 [6] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:04:48,877 [6] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:04:50,051 [19] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:04:50,055 [19] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:04:50,064 [19] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:04:51,530 [19] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:04:51,532 [19] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:04:51,541 [19] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:04:53,198 [19] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:04:53,200 [19] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:04:53,208 [19] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:04:54,164 [6] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:04:54,166 [6] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:04:54,174 [6] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:04:55,229 [6] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:04:55,233 [6] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:04:55,239 [6] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:04:58,362 [6] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:04:58,365 [6] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:04:58,375 [6] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:05:21,828 [19] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:05:21,829 [19] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:05:21,840 [19] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:05:22,418 [22] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:05:22,422 [22] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:05:22,430 [22] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:05:22,706 [22] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:05:22,707 [22] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:05:22,711 [22] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:05:23,308 [22] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:05:23,309 [22] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:05:23,317 [22] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:05:23,916 [19] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:05:23,917 [19] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:05:23,922 [19] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:05:24,269 [22] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:05:24,273 [22] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:05:24,280 [22] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:05:24,552 [22] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:05:24,555 [22] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:05:24,559 [22] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:05:24,783 [22] INFO  App  
+ Result response is 0 
+ 
+2023-01-03 13:05:24,787 [22] INFO  App  
+ Nechcem aktualizovat 
+ 
+2023-01-03 13:05:24,796 [22] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:06:00,198 [1] DEBUG App  
+ log4net Logger for type 'Program' initialized. 
+ 
+2023-01-03 13:06:00,208 [1] INFO  App  
+ Starting Application elec! 
+ 
+2023-01-03 13:06:00,219 [1] INFO  App  
+ WebHost use electron! 
+ 
+2023-01-03 13:06:00,430 [1] INFO  App  
+ Electron is active! 
+ 
+2023-01-03 13:06:00,727 [1] INFO  App  
+ Application elec started! 
+ 
+2023-01-03 13:06:01,805 [10] DEBUG App  
+ log4net Logger for type 'elec.Controllers.HomeController' initialized. 
+ 
+2023-01-03 13:06:12,438 [12] DEBUG App  
+ log4net Logger for type 'elec.Controllers.UpdateController' initialized. 
+ 
+2023-01-03 13:06:55,214 [21] INFO  App  
+ Result response is 1 
+ 
+2023-01-03 13:06:55,224 [21] INFO  App  
+ Electron app current version: 13.6.9 
+ 
+2023-01-03 13:06:55,227 [21] INFO  App  
+ Electron app update - false 
+ 
+2023-01-03 13:06:55,811 [21] INFO  App  
+ Available version: 1.0.1 
+ 
+2023-01-03 13:06:55,812 [21] INFO  App  
+ Current version: 13.6.9 - available version: 1.0.1 
+ 
+2023-01-03 13:06:55,834 [21] INFO  App  
+ End of auto-update-check 
+ 
+2023-01-03 13:07:01,815 [26] INFO  App  
+ Result response is 0 
+ 
